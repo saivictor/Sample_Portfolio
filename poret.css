@@ -1,0 +1,134 @@
+*{margin: 0px;
+padding: 0px;}
+
+.main{width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 50px;
+    background-color: rgba(20, 160, 139, 0.6);
+    overflow-x: hidden;
+}
+.profile{
+    width: 400px ;
+    height: 100vh;
+    /* border: 1px solid black; */
+    
+}
+h3{
+    font-size: smaller;
+}
+.ic{
+    margin-top: 20px;
+}
+.profile2{
+    box-shadow: 10px 9px 19px 10px  rgba(0, 0, 0, 0.333);
+    margin-top: 30px;
+    border-radius: 7px ;
+    border: 1px solid black;
+    width: 770px;
+    height: 100vh;
+  background-color: white;
+}
+.naw{margin-left: 20px;
+    margin-top: px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 360px ;
+    /* border: 1px solid black; */
+}
+.naws{
+    margin-top: 20px;
+  display: flex;
+  column-gap: 20px;
+}
+.name{
+    display: flex;
+    /* border: 1px solid black; */
+    height: 200px;
+    column-gap: 100px;
+    background-color: rgb(251, 238, 221);
+    
+}
+.para{
+    width: 400px;
+}
+.subname{
+    margin-left: 20px;
+    margin-top: 10px;
+   
+   
+}
+.image{
+    width: 180px;
+    height: 180px;
+    background-size: cover;
+    border-radius: 100%;
+    background-image: url(..\/assets/ny\ pic.jpg);
+}
+.icc{
+    background-color: black;
+    /* border:1px solid #3498db; */
+    color: #ecf3f8;
+ 
+    border-radius: 10px;
+    padding:6px;}
+    .ex{
+        /* border: 1px solid black; */
+        width: 130px;
+        height: 20px;
+        background-color: hsl(107, 87%, 82%);
+        margin-left: 75px;
+        margin-top: 155px
+    }
+    .exp{
+        width: 150px;
+    }
+    .pic{
+        /* border: 1px solid black; */
+        width:600x ;
+        height: 250px;
+        display: flex;
+        column-gap: 30px;
+    }
+    .pic2{
+        width: 200px;
+        height: 200px;
+        background-size: cover;
+        border-radius: ;
+       background-image: url(../assets/pic22.jpg);
+       margin-top: 25px;
+       margin-left: 25px;
+    }
+    .content{
+        margin-top: 20px;
+    }
+    .bud{
+        width: 120px;
+        height: 30px;
+        background-color: black;
+        color: white;
+    }
+   /* -------- top profile------ */
+   .ph{
+    font-size: 50px;
+    color: white;
+    margin-top: 150px;
+    margin-left: 50px;
+   }
+   .pp{
+    font-size: 20px;
+    color: white;
+    margin-left: 50px; 
+   }
+   .imm{margin-top: 200px;
+    /* border: 1px solid black; */
+    width: 180px;
+    height: 50px;  
+    border-radius: 0px 30px 30px 0px;
+    background-image: url(../assets/html2.png);
+    background-size: contain;
+ }
+ h3:hover{
+    color: skyblue;
+ }
